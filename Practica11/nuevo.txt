@@ -1,0 +1,1 @@
+Este texto solo se escribe si el archivo es nuevo.
